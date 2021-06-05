@@ -1,0 +1,38 @@
+{
+    "name": "Hex",
+    "display": "standalone",
+    "start_url": "/",
+    "short_name": "hex",
+    "theme_color": "#34D399",
+    "description": "Hex",
+    "orientation": "any",
+    "background_color": "#34D399",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "assets/icons/icon_128.png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "assets/icons/icon_48.png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "assets/icons/icon_24.png",
+            "sizes": "24x24"
+        },
+        {
+            "src": "assets/icons/icon_16.png",
+            "sizes": "16x16"
+        }
+    ],
+    "features": [
+        "Cross Platform",
+        "fast",
+        "simple"
+    ],
+    "categories": [
+        "utility"
+    ]
+}
