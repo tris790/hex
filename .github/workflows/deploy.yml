@@ -11,7 +11,7 @@ jobs:
       - name: Npm install
         run: npm install
       - name: Build
-        run: npm run build --base=/hex/
+        run: npm run build-gh-pages
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
